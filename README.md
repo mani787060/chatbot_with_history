@@ -123,4 +123,3 @@ Use the following commands during a session:
 ## 🎯 Learning Outcomes
 
 This project provides practical experience with conversational LLM applications and demonstrates how message history can be used to maintain context across multiple interactions. It also introduces streaming output, environment-based configuration, and a basic fallback strategy for handling selected API errors.
-
